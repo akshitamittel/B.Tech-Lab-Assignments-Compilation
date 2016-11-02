@@ -1,0 +1,7 @@
+Change into the directory
+
+$ cd Assn9-cs13b1040
+
+Run the code as follows:
+
+$gcc prod_cons-cs13b1040.c -lpthread -lm
